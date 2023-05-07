@@ -1,0 +1,16 @@
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/bin/Debug/netstandard2.0/IbagTag.deps.json
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/bin/Debug/netstandard2.0/IbagTag.dll
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/bin/Debug/netstandard2.0/ref/IbagTag.dll
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/bin/Debug/netstandard2.0/IbagTag.pdb
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/IbagTag.csproj.AssemblyReference.cache
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/BluetoothService.xaml.g.cs
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/ScanDevicesList.xaml.g.cs
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/IbagTag.AssemblyInfoInputs.cache
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/IbagTag.AssemblyInfo.cs
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/IbagTag.csproj.CoreCompileInputs.cache
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/IbagTag.dll
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/ref/IbagTag.dll
+/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag/obj/Debug/netstandard2.0/IbagTag.pdb

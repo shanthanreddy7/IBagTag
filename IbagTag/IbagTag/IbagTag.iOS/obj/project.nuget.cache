@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cIod3tbbW0YvrHKzwNS5uwj4QjiW/2/lU+gWBo6Jn3vGK2Wt7UekkL8veYCrW2YLsDZ2BSq3WXhE3w/bzkLDTw==",
+  "success": true,
+  "projectFilePath": "/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.iOS/IbagTag.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/shanthanreddy/.nuget/packages/quick.xamarin.ble/1.0.4/quick.xamarin.ble.1.0.4.nupkg.sha512",
+    "/Users/shanthanreddy/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/shanthanreddy/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/shanthanreddy/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

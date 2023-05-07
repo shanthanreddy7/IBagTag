@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:IbagTag"
+
+    x:Class="IbagTag.BluetoothService">
+    <StackLayout>
+        <!--Connection Status Layout-->
+        <StackLayout x:Name="msg_layout" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+            <Label x:Name="msg_txt" Text="Connecting..." TextColor="#243A99"  HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" FontSize="20"/>
+        </StackLayout>
+       
+        <StackLayout Orientation="Vertical" x:Name="button_layout" IsVisible="False" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+
+               <StackLayout
+                  HorizontalOptions="FillAndExpand"
+                  Padding="10,15,10,15">
+                <Button x:Name="blink_green_one_btn"
+                        BackgroundColor="LightGreen"
+                        IsEnabled="{Binding IsLED}"
+                        Text="Blink Green"
+                        Clicked="blink_green_one"
+                        HeightRequest="75"
+                        WidthRequest="75"
+                        />
+                </StackLayout>
+
+                <StackLayout
+                     HorizontalOptions="FillAndExpand"
+                      Padding="10,15,10,15">
+                   <Button
+                    x:Name="blink_green_one_all_btn"
+                    BackgroundColor="Green"
+                    IsEnabled="{Binding IsLED}"
+                    Text="Blink Green ALL"
+                    Clicked="blink_green_all"
+                    HeightRequest="75"
+                    WidthRequest="75"
+                    />
+                 </StackLayout>
+
+                <StackLayout
+                     HorizontalOptions="FillAndExpand"
+                     Padding="10,15,10,15">
+                 <Button
+                    x:Name="back_reset"
+                    BackgroundColor="Red"
+                    IsEnabled="{Binding IsLED}"
+                    Text="Reset"
+                    Clicked="reset"
+                    HeightRequest="75"
+                    WidthRequest="75"
+                    />
+            </StackLayout>
+      </StackLayout>
+    </StackLayout>
+</ContentPage>
+

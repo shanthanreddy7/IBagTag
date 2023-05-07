@@ -1,0 +1,94 @@
+@string/appbar_scrolling_view_behavior;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+@string/appbar_scrolling_view_behavior;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+adaptive-icon;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+alpha;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/enterfromleft.xml
+alpha;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/exittoleft.xml
+alpha;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/enterfromleft.xml
+alpha;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/exittoleft.xml
+androidx.appcompat.widget.Toolbar;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+androidx.appcompat.widget.Toolbar;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/shellcontent.xml
+androidx.appcompat.widget.Toolbar;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/toolbar.xml
+androidx.appcompat.widget.Toolbar;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/fallbacktoolbardonotuse.xml
+androidx.appcompat.widget.Toolbar;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+androidx.appcompat.widget.Toolbar;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/shellcontent.xml
+androidx.appcompat.widget.Toolbar;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/toolbar.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/shellcontent.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+androidx.coordinatorlayout.widget.CoordinatorLayout;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/shellcontent.xml
+attr;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/attrs.xml
+attr;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/attrs.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+background;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+cache-path;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/56/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+cache-path;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/56/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+color;obj/Debug/res/values/colors.xml
+com.google.android.material.appbar.AppBarLayout;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/shellcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/flyoutcontent.xml
+com.google.android.material.appbar.AppBarLayout;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+com.google.android.material.appbar.AppBarLayout;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/shellcontent.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/bottomtablayout.xml
+com.google.android.material.bottomnavigation.BottomNavigationView;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/bottomtablayout.xml
+com.google.android.material.tabs.TabLayout;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+com.google.android.material.tabs.TabLayout;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/tabbar.xml
+com.google.android.material.tabs.TabLayout;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/fallbacktabbardonotuse.xml
+com.google.android.material.tabs.TabLayout;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+com.google.android.material.tabs.TabLayout;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/tabbar.xml
+crc643f46942d9dd1fff9.ShellFlyoutLayout;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/flyoutcontent.xml
+crc64720bb2db43a66fe9.FormsViewPager;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+declare-styleable;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/attrs.xml
+declare-styleable;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/attrs.xml
+external-cache-path;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/56/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-cache-path;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/56/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-path;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/56/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+external-path;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/56/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon.xml
+foreground;obj/Debug/res/mipmap-anydpi-v26/icon_round.xml
+FrameLayout;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/bottomtablayout.xml
+FrameLayout;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/bottomtablayout.xml
+item;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/styles.xml
+item;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/styles.xml
+LinearLayout;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/bottomtablayout.xml
+LinearLayout;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/bottomtablayout.xml
+paths;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/56/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+paths;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/56/jl/res/xml/xamarin_essentials_fileprovider_file_paths.xml
+resources;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/1/jl/res/values/strings.xml
+resources;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/attrs.xml
+resources;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/strings.xml
+resources;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/styles.xml
+resources;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/1/jl/res/values/strings.xml
+resources;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/attrs.xml
+resources;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/strings.xml
+resources;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/styles.xml
+resources;obj/Debug/res/values/colors.xml
+resources;obj/Debug/res/values/styles.xml
+set;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/enterfromleft.xml
+set;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/enterfromright.xml
+set;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/exittoleft.xml
+set;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/exittoright.xml
+set;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/enterfromleft.xml
+set;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/enterfromright.xml
+set;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/exittoleft.xml
+set;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/exittoright.xml
+string;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/1/jl/res/values/strings.xml
+string;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/strings.xml
+string;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/1/jl/res/values/strings.xml
+string;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/strings.xml
+style;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/styles.xml
+style;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/values/styles.xml
+style;obj/Debug/res/values/styles.xml
+translate;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/enterfromleft.xml
+translate;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/enterfromright.xml
+translate;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/exittoleft.xml
+translate;/Users/shanthanreddy/Desktop/untitled folder/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/exittoright.xml
+translate;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/enterfromleft.xml
+translate;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/enterfromright.xml
+translate;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/exittoleft.xml
+translate;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/anim/exittoright.xml
+xamarin.forms.platform.android.appcompat.FormsViewPager;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/rootlayout.xml
+xamarin.forms.platform.android.ShellFlyoutLayout;/Users/shanthanreddy/Projects/IbagTag/IbagTag/IbagTag.Android/obj/Debug/lp/57/jl/res/layout/flyoutcontent.xml
